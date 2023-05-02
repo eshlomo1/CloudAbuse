@@ -1,0 +1,11 @@
+Grapsh request: GET /beta/deviceLocalCredentials/DEVICEID?$select=credentials HTTP/1.1
+ocp-client-version: 1.0
+client-request-id: 96cbfa48-ercc-2a42-b232-8f71bd7f4b2c
+ocp-client-name: Get-LapsAADPassword Windows LAPS Cmdlet
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Microsoft Windows 10.0.22621; en-US) PowerShell/5.1.22621.963 Invoke-MgGraphRequest
+SdkVersion: graph-powershell/1.26.0, Graph-dotnet-1.25.1
+FeatureFlag: 00000047
+Cache-Control: no-store, no-cache
+Authorization: Bearer [AAD-JWT-XXXXXXX]
+Accept-Encoding: gzip
+Host: graph.microsoft.com
